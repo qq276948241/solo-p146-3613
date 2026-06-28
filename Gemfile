@@ -20,7 +20,7 @@ gem "blueprinter", "~> 1.0"
 gem "kaminari", "~> 1.2"
 
 # CORS handling
-gem "rack-cors", "~> 2.0"
+gem "rack-cors", "~> 3.0"
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data", platforms: %i[ windows jruby ]
